@@ -1,0 +1,12 @@
+{
+  "name": "gohighlevel-slicktext-sms-sync-and-campaign-scheduler",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GoHighLevel workflows that sync contacts onto SlickText lists and schedule a free-class SMS sequence with DST-correct UTC send times. Zero dependencies.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test test/"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "#1 {{custom_values.slicktext_list_code__free_class_registration}}",
+  "body": "Reminder: the class starts tomorrow at 7pm ET.\n\nSave your seat: https://www.example.com/class?utm_source=slicktext",
+  "status": "scheduled",
+  "scheduled": "{{custom_code.1.output.utc_1}}",
+  "audience": {
+    "contact_lists": [
+      {{custom_values.slicktext_list_code__free_class_registration}}
+    ]
+  }
+}

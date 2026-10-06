@@ -1,0 +1,7 @@
+{
+  "first_name": "{{contact.first_name}}",
+  "last_name": "{{contact.last_name}}",
+  "mobile_number": "{{contact.phone}}",
+  "email": "{{contact.email}}",
+  "opt_in_status": "subscribed"
+}

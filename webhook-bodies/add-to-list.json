@@ -1,0 +1,6 @@
+[
+  {
+    "contact_id": {{contact.slicktext_id}},
+    "lists": [REPLACE_WITH_BASE_LIST_ID, {{custom_values.slicktext_list_code__free_class_registration}}]
+  }
+]
